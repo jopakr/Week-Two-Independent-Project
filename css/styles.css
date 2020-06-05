@@ -1,6 +1,10 @@
 .jumbotron {
-    align-self: center;
+    align-self: right;
     background-color: gainsboro;
-    border-radius: 11pt;
+    border-radius: 50pt;
+    padding-left: 2.5cm;
 }
 
+h4 {
+    font-size: 30pt;
+}
