@@ -1,5 +1,7 @@
 # _WEEK TWO INDEPENDENT PROJECT_
 
+## JavaScript & jQuery
+
 #### _Week Two Independent Project_
 
 #### By _**Jordan Kronquist**_
