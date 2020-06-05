@@ -1,6 +1,6 @@
-#logo-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: gainsboro; 
+.jumbotron {
+    align-self: center;
+    background-color: gainsboro;
+    border-radius: 11pt;
 }
+
