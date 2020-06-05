@@ -39,6 +39,8 @@ _Additionally, jQuery and JavaScript was implemented to achieve functionality._
 ### License
 
 *Bootstrap software is licensed under the MIT license*
+
 *jQuery software is licensed under OpenJs Foundation license*
+
 *JavaScipt software is maintained by ECMAScript*
 
