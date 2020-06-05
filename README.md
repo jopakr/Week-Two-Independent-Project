@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is Program Language Generator that will gather user logic, and through business logic, will choose the best program for the user from the languages:_
+_This is Programming Language Suggester that will gather user logic, and through JavaScript & jQuery, will choose the best program for the user from the languages:_
 
 * C#
 * JavaScript
